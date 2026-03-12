@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Event Booking",
+  "name": "Royal Event Booking System",
+  "description": "Book premium events and experiences with elegance",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#d4af37",
+  "background_color": "#1a1f3a",
+  "scope": "/"
 }
