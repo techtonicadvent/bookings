@@ -1,0 +1,80 @@
+export const eventsData = [
+  {
+    id: 1,
+    name: 'Summer Music Festival',
+    date: '2026-06-15',
+    time: '18:00',
+    location: 'Central Park, New York',
+    description: 'Experience the best live music performances from renowned artists at our annual summer festival.',
+    totalSeats: 500,
+    bookedSeats: 245,
+    price: 2500,
+    image: '🎵',
+    category: 'Music'
+  },
+  {
+    id: 2,
+    name: 'Tech Conference 2026',
+    date: '2026-05-20',
+    time: '09:00',
+    location: 'Convention Center, San Francisco',
+    description: 'Join industry leaders and innovators for cutting-edge tech talks, workshops, and networking.',
+    totalSeats: 1000,
+    bookedSeats: 680,
+    price: 6999,
+    image: '💻',
+    category: 'Technology'
+  },
+  {
+    id: 3,
+    name: 'Comedy Night Extravaganza',
+    date: '2026-04-10',
+    time: '20:00',
+    location: 'The Comedy Club, Los Angeles',
+    description: 'Laugh out loud with stand-up performances from top comedy acts.',
+    totalSeats: 250,
+    bookedSeats: 180,
+    price: 1500,
+    image: '😂',
+    category: 'Comedy'
+  },
+  {
+    id: 4,
+    name: 'Art Exhibition Opening',
+    date: '2026-05-05',
+    time: '17:00',
+    location: 'Modern Art Museum, Chicago',
+    description: 'Witness contemporary art masterpieces from emerging and established artists.',
+    totalSeats: 300,
+    bookedSeats: 120,
+    price: 999,
+    image: '🎨',
+    category: 'Art'
+  },
+  {
+    id: 5,
+    name: 'Marathon 2026',
+    date: '2026-06-01',
+    time: '07:00',
+    location: 'City Marathon Course, Boston',
+    description: 'Join thousands of runners for an exciting 42km marathon event.',
+    totalSeats: 5000,
+    bookedSeats: 3200,
+    price: 4500,
+    image: '🏃',
+    category: 'Sports'
+  },
+  {
+    id: 6,
+    name: 'Food & Wine Festival',
+    date: '2026-07-10',
+    time: '16:00',
+    location: 'Riverside Park, Seattle',
+    description: 'Taste cuisines from around the world and enjoy premium wine selections.',
+    totalSeats: 600,
+    bookedSeats: 320,
+    price: 3999,
+    image: '🍷',
+    category: 'Food'
+  }
+];
